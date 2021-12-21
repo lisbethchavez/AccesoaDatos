@@ -1,0 +1,3 @@
+Calificación: 2.2/3.0
+El bloque de código que encierra el try ... catch, está mal ubicado
+Debía agregar 2 excepciones: SQLException y Exception
